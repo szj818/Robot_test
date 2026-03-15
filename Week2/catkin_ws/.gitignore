@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+devel/
+install/
+
+# Catkin workspace
+logs/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files
+*.csv
