@@ -1,0 +1,8 @@
+prefix=/home/sunzj/Robot/catkin_ws/devel
+
+Name: turtle_control
+Description: Description of turtle_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
